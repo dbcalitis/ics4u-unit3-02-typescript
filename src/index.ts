@@ -1,6 +1,5 @@
 /**
- * The program reverses the string
- * using recursion.
+ * The program gives the factorial of the given number.
  *
  * By:      Daria Bernice Calitis
  * Version: 1.0
